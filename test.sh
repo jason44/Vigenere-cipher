@@ -1,0 +1,2 @@
+./vignere_ciper --encode --message "No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon"
+./vignere_ciper --decode --message "bq xoe knb svzik eku acmesiz: tzr mvzvpf fs qtzc pnhp kpr cys, opx zfcm hse wgnsc; mf ywgv pr hict ncwr rc nss vvr, ael jsddoqs nss vbusc. gr qlbtmh mpfml tco rvq alasmb"
